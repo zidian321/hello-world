@@ -25,7 +25,7 @@ public class ColumnModel {
   
     public void setDataType(String dataType) {  
         this.dataType = dataType;  
-    }  
+    } //dsd
   
     public String getTypeName() {  
         return typeName;  
