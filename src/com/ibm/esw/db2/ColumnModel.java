@@ -12,7 +12,7 @@ public class ColumnModel {
     private String remarks;  
   
     public String getColumnName() {  
-        return columnName;  
+        return columnName;  //dd
     }  
   
     public void setColumnName(String columnName) {  
