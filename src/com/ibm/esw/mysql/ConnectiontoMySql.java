@@ -17,7 +17,7 @@ public class ConnectiontoMySql {
 		try {
 			Class.forName(driver);
 		} catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
+			// TODO Auto-generated catch blockfff
 			e.printStackTrace();
 		}
 	}
