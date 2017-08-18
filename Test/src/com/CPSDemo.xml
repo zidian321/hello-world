@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data:license-use-submission-list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:data="http://zscm.lms.alr.dk.ibm.com/LicenseUseData">
+  <license-use-data xsi:type="data:SubCapLicenseUseData">
+    <backend-status>STORED</backend-status>
+    <current-status>
+      <code>Y</code>
+      <text>Ready for submission</text>
+    </current-status>
+    <customer-comment></customer-comment>
+    <customer-name>PL  Dev Cust 000001</customer-name>
+    <customer-number>820000001</customer-number>
+    <error-list/>
+    <has-errors>false</has-errors>
+    <low-data-collection-comment xsi:nil="true"/>
+    <machine-msu>4000</machine-msu>
+    <machine-serial-number>02-IVT04</machine-serial-number>
+    <machine-type-model>2094-2C8</machine-type-model>
+    <is-MVS-or-OS390>false</is-MVS-or-OS390>
+    <original-tool-percentage-collected xsi:nil="true"/>
+    <original-tool-zfpt-collected xsi:nil="true"/>
+    <os-divert-comment xsi:nil="true"/>
+    <osf-list>
+      <OSF>
+        <OSF-name>% Data Collected for z/OS</OSF-name>
+        <percentage-data-collected>99%</percentage-data-collected>
+        <low-data-justification></low-data-justification>
+        <collected-low>N</collected-low>
+      </OSF>
+    </osf-list>
+    <provided-customer-name>LMS IVT</provided-customer-name>
+    <provided-customer-number>820000001</provided-customer-number>
+    <provided-machine-msu>4000</provided-machine-msu>
+    <run-date>19 Apr 2004 - 12:03</run-date>
+    <special-conditions>
+      <special-condition-data>
+        <sequence-number>0</sequence-number>
+        <number-of-columns>8</number-of-columns>
+        <fields>
+          <component>SMF/SCRT89 Exclusion Control Statements</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>Image ID</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>Product ID</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>Start</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component> </component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>End</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component> </component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>Customer Comments (255 chars max)</component>
+          <isEditable>true</isEditable>
+        </fields>
+        <header>true</header>
+      </special-condition-data>
+      <special-condition-data>
+        <sequence-number>1</sequence-number>
+        <number-of-columns>8</number-of-columns>
+        <fields>
+          <component>Exclude Control Statement</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>SYUB</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>*ALL</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>02 Jan 2010 - 00:00</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component> </component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>01 Feb 2010 - 23:00</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component> </component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component></component>
+          <isEditable>true</isEditable>
+        </fields>
+        <header>false</header>
+      </special-condition-data>
+      <special-condition-data>
+        <sequence-number>2</sequence-number>
+        <number-of-columns>8</number-of-columns>
+        <fields>
+          <component>SMF/SCRT89 Exclusion Results</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>Image ID</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>Product ID</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>Start</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component> </component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>End</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component> </component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>Hours</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <header>true</header>
+      </special-condition-data>
+      <special-condition-data>
+        <sequence-number>3</sequence-number>
+        <number-of-columns>8</number-of-columns>
+        <fields>
+          <component>SMF/SCRT89 records excluded</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>SYUB</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>*ALL</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>02 Jan 2010 - 00:00</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component> </component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>01 Feb 2010 - 23:00</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component> </component>
+          <isEditable>false</isEditable>
+        </fields>
+        <fields>
+          <component>5</component>
+          <isEditable>false</isEditable>
+        </fields>
+        <header>false</header>
+      </special-condition-data>
+    </special-conditions>
+    <submit-date xsi:nil="true"/>
+    <hash-code-ok>false</hash-code-ok>
+    <hash-error-section></hash-error-section>
+    <submitted>false</submitted>
+    <uploaded>true</uploaded>
+    <submitter-email>290950948@qq.com</submitter-email>
+    <submitter-name>Hong Yu Yang</submitter-name>
+    <submitter-phone>444-999-9999</submitter-phone>
+    <tool-period>2 Feb, 2017 - 1 Mar, 2017 inclusive(31 days)</tool-period>
+    <tool-period-end>2017-03-01</tool-period-end>
+    <tool-period-start>2017-02-02</tool-period-start>
+    <tool-percentage-collected xsi:nil="true"/>
+    <tool-release>23.1.0</tool-release>
+    <unique-request-id>1500959489544 2094-2C8 02-IVT04</unique-request-id>
+    <upload-date>2017-07-25-05.11.29.468000</upload-date>
+    <warning-list/>
+    <has-warnings>false</has-warnings>
+    <zose-msu-per-engine xsi:nil="true"/>
+    <zose-physical-engines xsi:nil="true"/>
+    <zose-pricing-engines xsi:nil="true"/>
+    <zose-tool-msu xsi:nil="true"/>
+    <zose-31bit>false</zose-31bit>
+    <Lpar-List>
+      <Lpar>
+        <Name>MVSESA2</Name>
+        <Sysid>ESA2</Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>0</line-id>
+        <reportPeriodePercent>1.0%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFP1*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>1</line-id>
+        <reportPeriodePercent>1.0%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFP11*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>2</line-id>
+        <reportPeriodePercent>1.0%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFP12*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>3</line-id>
+        <reportPeriodePercent>3.0%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFP13*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>4</line-id>
+        <reportPeriodePercent>2.9%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFP2*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>5</line-id>
+        <reportPeriodePercent>3.2%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFP3*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>6</line-id>
+        <reportPeriodePercent>3.2%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFP7*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>7</line-id>
+        <reportPeriodePercent>3.0%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFP8*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>8</line-id>
+        <reportPeriodePercent>3.0%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFP9</Name>
+        <Sysid>A015</Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>9</line-id>
+        <reportPeriodePercent>3.0%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFT14*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>10</line-id>
+        <reportPeriodePercent>0.8%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFT15*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>11</line-id>
+        <reportPeriodePercent>1.3%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFT16*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>12</line-id>
+        <reportPeriodePercent>1.3%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFT4*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>13</line-id>
+        <reportPeriodePercent>3.0%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFT5*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>14</line-id>
+        <reportPeriodePercent>3.0%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>TPFT6*</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>15</line-id>
+        <reportPeriodePercent>3.0%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+      <Lpar>
+        <Name>CPC</Name>
+        <Sysid> </Sysid>
+        <inputDataStart>04 May 2006 - 00:00 UTC</inputDataStart>
+        <inputDataEnd>04 May 2006 - 23:00 UTC</inputDataEnd>
+        <line-id>16</line-id>
+        <reportPeriodePercent>3.2%</reportPeriodePercent>
+        <comment></comment>
+      </Lpar>
+    </Lpar-List>
+    <country-number>820</country-number>
+    <mobile-scrt>false</mobile-scrt>
+    <mvm>false</mvm>
+	<CPSList>
+	<CPS>
+	<Identifier>BG1</Identifier>
+	<SolutionID>ZS1SLAA-T6710A0-4453FF6A14-591C82A0-DA53-4EEF-A903-E094DE-DF2E3E</SolutionID>	
+	</CPS>
+	<CPS>
+	<Identifier>BG2</Identifier>
+	<SolutionID>ZS1SLAA-K763ABD-4089A7C3DB-637C8FA5-7F79-4155-AD04-C70A4C-014FEE</SolutionID>	
+	</CPS>
+	<CPS>
+	<Identifier>BG3</Identifier>
+	<SolutionID>ZS1SLAA-K763ABD-4089A7C3DB-637C8FA5-7F79-4155-AD04-C70A4C-014FED</SolutionID>	
+	</CPS>
+	</CPSList>
+    <CPSDetailList>
+	<CPSDetail>
+	<Identifier>CPS1</Identifier>
+	<SolutionID>ZS1SLAA-T6710A0-4453FF6A14-591C82A0-DA53-4EEF-A903-E094DE-DF2E3E</SolutionID>
+	<SolutionType>SLA</SolutionType>
+	<PeakAverage>500</PeakAverage>
+	<TotalHours>2100</TotalHours>
+	</CPSDetail>
+	<CPSActiveList>
+	<CPSActive>
+	<ProductName>z/OS V2</ProductName>
+	<ProductID>5650-ZOS</ProductID>
+	</CPSActive>
+	<CPSActive>
+	<ProductName>CICS TS VUE V5</ProductName>
+	<ProductID>5722-DFJ</ProductID>
+	</CPSActive>
+	<CPSActive>
+	<ProductName>DB2 12 for z/OS Value Unit Edition</ProductName>
+	<ProductID>5770-AF3</ProductID>
+	</CPSActive>
+	<CPSActive>
+	<ProductName>IBM z/OS Connect EE V2</ProductName>
+	<ProductID>5655-CEE</ProductID>
+	</CPSActive>	
+	</CPSActiveList>
+	<CPSMetricsList>
+	<CPSMetrics>
+	<ProductName>DB2 12 for z/OS Value Unit Edition</ProductName>
+	<ProductID>5770-AF3</ProductID>
+	<ProductUnits>3</ProductUnits>
+	<ProductMetric>Simultaneous Instances</ProductMetric>
+	</CPSMetrics>
+	<CPSMetrics>
+	<ProductName>CICS TS VUE V5</ProductName>
+	<ProductID>5722-DFJ</ProductID>
+	<ProductUnits>3</ProductUnits>
+	<ProductMetric>Simultaneous Instances</ProductMetric>
+	</CPSMetrics>
+	<CPSMetrics>
+	<ProductName>IBM z/OS Connect EE V2</ProductName>
+	<ProductID>5655-CEE</ProductID>
+	<ProductUnits>3</ProductUnits>
+	<ProductMetric>Simultaneous Instances</ProductMetric>
+	</CPSMetrics>
+	<CPSMetrics>
+	<ProductName>z/OS V2</ProductName>
+	<ProductID>5650-ZOS</ProductID>
+	<ProductUnits>3</ProductUnits>
+	<ProductMetric>Simultaneous Instances</ProductMetric>
+	</CPSMetrics>	
+	</CPSMetricsList>
+	</CPSDetailList>
+	<CPSDetailList>
+	<CPSDetail>
+    <Identifier>CPS2</Identifier>
+	<SolutionID>ZS1SLAA-T6710A0-4453FF6A14-591C82A0-DA53-4EEF-A903-E094DE-DF2E3E</SolutionID>
+	<SolutionType>SLA</SolutionType>
+	<PeakAverage>500</PeakAverage>
+	<TotalHours>2100</TotalHours>
+	</CPSDetail>
+	<CPSActiveList>
+	<CPSActive>
+	<ProductName>z/OS V2</ProductName>
+	<ProductID>5650-ZOS</ProductID>
+	</CPSActive>
+	<CPSActive>
+	<ProductName>CICS TS VUE V5</ProductName>
+	<ProductID>5722-DFJ</ProductID>
+	</CPSActive>
+	<CPSActive>
+	<ProductName>DB2 12 for z/OS Value Unit Edition</ProductName>
+	<ProductID>5770-AF3</ProductID>
+	</CPSActive>
+	<CPSActive>
+	<ProductName>IBM z/OS Connect EE V2</ProductName>
+	<ProductID>5655-CEE</ProductID>
+	</CPSActive>	
+	</CPSActiveList>
+	<CPSMetricsList>
+	<CPSMetrics>
+	<ProductName>DB2 12 for z/OS Value Unit Edition</ProductName>
+	<ProductID>5770-AF3</ProductID>
+	<ProductUnits>3</ProductUnits>
+	<ProductMetric>Simultaneous Instances</ProductMetric>
+	</CPSMetrics>
+	<CPSMetrics>
+	<ProductName>CICS TS VUE V5</ProductName>
+	<ProductID>5722-DFJ</ProductID>
+	<ProductUnits>3</ProductUnits>
+	<ProductMetric>Simultaneous Instances</ProductMetric>
+	</CPSMetrics>
+	<CPSMetrics>
+	<ProductName>IBM z/OS Connect EE V2</ProductName>
+	<ProductID>5655-CEE</ProductID>
+	<ProductUnits>3</ProductUnits>
+	<ProductMetric>Simultaneous Instances</ProductMetric>
+	</CPSMetrics>
+	<CPSMetrics>
+	<ProductName>z/OS V2</ProductName>
+	<ProductID>5650-ZOS</ProductID>
+	<ProductUnits>3</ProductUnits>
+	<ProductMetric>Simultaneous Instances</ProductMetric>
+	</CPSMetrics>	
+	</CPSMetricsList>
+	</CPSDetailList>
+	<CPSDetailList>
+	<CPSDetail>
+	<Identifier>CPS3</Identifier>	
+	<SolutionID>ZS1SLAA-T6710A0-4453FF6A14-591C82A0-DA53-4EEF-A903-E094DE-DF2E3E</SolutionID>
+	<SolutionType>SLA</SolutionType>
+	<PeakAverage>500</PeakAverage>
+	<TotalHours>2100</TotalHours>
+	</CPSDetail>
+	<CPSActiveList>
+	<CPSActive>
+	<ProductName>z/OS V2</ProductName>
+	<ProductID>5650-ZOS</ProductID>
+	</CPSActive>
+	<CPSActive>
+	<ProductName>CICS TS VUE V5</ProductName>
+	<ProductID>5722-DFJ</ProductID>
+	</CPSActive>
+	<CPSActive>
+	<ProductName>DB2 12 for z/OS Value Unit Edition</ProductName>
+	<ProductID>5770-AF3</ProductID>
+	</CPSActive>
+	<CPSActive>
+	<ProductName>IBM z/OS Connect EE V2</ProductName>
+	<ProductID>5655-CEE</ProductID>
+	</CPSActive>	
+	</CPSActiveList>
+	<CPSMetricsList>
+	<CPSMetrics>
+	<ProductName>DB2 12 for z/OS Value Unit Edition</ProductName>
+	<ProductID>5770-AF3</ProductID>
+	<ProductUnits>3</ProductUnits>
+	<ProductMetric>Simultaneous Instances</ProductMetric>
+	</CPSMetrics>
+	<CPSMetrics>
+	<ProductName>CICS TS VUE V5</ProductName>
+	<ProductID>5722-DFJ</ProductID>
+	<ProductUnits>3</ProductUnits>
+	<ProductMetric>Simultaneous Instances</ProductMetric>
+	</CPSMetrics>
+	<CPSMetrics>
+	<ProductName>IBM z/OS Connect EE V2</ProductName>
+	<ProductID>5655-CEE</ProductID>
+	<ProductUnits>3</ProductUnits>
+	<ProductMetric>Simultaneous Instances</ProductMetric>
+	</CPSMetrics>
+	<CPSMetrics>
+	<ProductName>z/OS V2</ProductName>
+	<ProductID>5650-ZOS</ProductID>
+	<ProductUnits>3</ProductUnits>
+	<ProductMetric>Simultaneous Instances</ProductMetric>
+	</CPSMetrics>	
+	</CPSMetricsList>
+	</CPSDetailList>
+	<subCapData>
+      <product-list>
+        <product-entry>
+          <product-name>z/OS V1</product-name>
+          <product-id>5694-A01</product-id>
+          <product-tool-msu>3000</product-tool-msu>
+          <product-customer-msu></product-customer-msu>
+          <product-customer-comment></product-customer-comment>
+          <product-type>ICA</product-type>
+          <product-intended-pricing-metric> </product-intended-pricing-metric>
+          <product-entry></product-entry>
+          <product-footnote></product-footnote>
+          <line>0</line>
+        </product-entry>
+        <product-entry>
+          <product-name>Tivoli NetView for z/OS</product-name>
+          <product-id>5697-ENV</product-id>
+          <product-tool-msu>824</product-tool-msu>
+          <product-customer-msu></product-customer-msu>
+          <product-customer-comment></product-customer-comment>
+          <product-type>ICA</product-type>
+          <product-intended-pricing-metric> </product-intended-pricing-metric>
+          <product-entry></product-entry>
+          <product-footnote></product-footnote>
+          <line>1</line>
+          <should-show>Y</should-show>
+        </product-entry>
+        <product-entry>
+          <product-name>IBM Enterprise Cobol for z/OS and OS/390 V3</product-name>
+          <product-id>5655-G53</product-id>
+          <product-tool-msu>616</product-tool-msu>
+          <product-customer-msu></product-customer-msu>
+          <product-customer-comment></product-customer-comment>
+          <product-type>ICA</product-type>
+          <product-intended-pricing-metric> </product-intended-pricing-metric>
+          <product-entry></product-entry>
+          <product-footnote></product-footnote>
+          <line>2</line>
+          <should-show>Y</should-show>
+        </product-entry>
+        <product-entry>
+          <product-name>IMS V8</product-name>
+          <product-id>5655-C56</product-id>
+          <product-tool-msu>100</product-tool-msu>
+          <product-customer-msu></product-customer-msu>
+          <product-customer-comment></product-customer-comment>
+          <product-type>ICA</product-type>
+          <product-intended-pricing-metric> </product-intended-pricing-metric>
+          <product-entry></product-entry>
+          <product-footnote></product-footnote>
+          <line>3</line>
+        </product-entry>
+      </product-list>
+      <ipla-product-list/>
+      <ipla-nonmsu-product-list/>
+    </subCapData>
+  </license-use-data>
+</data:license-use-submission-list>
