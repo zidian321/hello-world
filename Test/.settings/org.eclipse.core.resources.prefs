@@ -1,3 +1,16 @@
 eclipse.preferences.version=1
+encoding//src/com/Account.java=UTF-8
+encoding//src/com/DrawTest.java=UTF-8
+encoding//src/com/DrawThread.java=UTF-8
+encoding//src/com/SecondThread.java=UTF-8
 encoding//src/com/SortedMapTest.java=UTF-8
 encoding//src/com/Test.java=UTF-8
+encoding//src/com/YieldTest.java=UTF-8
+encoding//src/com/crazyjava/condition/Account.java=UTF-8
+encoding//src/com/crazyjava/condition/DepositThread.java=UTF-8
+encoding//src/com/crazyjava/condition/DrawTest.java=UTF-8
+encoding//src/com/crazyjava/condition/DrawThread.java=UTF-8
+encoding//src/com/thread/Account.java=UTF-8
+encoding//src/com/thread/DepositThread.java=UTF-8
+encoding//src/com/thread/DrawTest.java=UTF-8
+encoding//src/com/thread/DrawThread.java=UTF-8
