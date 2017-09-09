@@ -105,4 +105,18 @@ public class Solution {
     	return result;
         
     }
+    public int findUnsortedSubarray(int[] nums) {
+    	int[]numso = Arrays.copyOf(nums,nums.length);
+    	Arrays.sort(nums);
+		int i=0,j=nums.length-1;
+        while(nums[i]==numso[i]){
+        	i++;
+        }
+        while(nums[j]==numso[j]){
+        	j--;
+        }
+    	
+    	return j-i+1;
+        
+    }
 }

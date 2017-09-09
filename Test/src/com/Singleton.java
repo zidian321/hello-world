@@ -1,18 +1,16 @@
 package com;
 
-public class Singleton {
-	private static Singleton instance;
-	private Singleton(){
-		
-	}
-	public static Singleton getInstance(){
-		if(instance!=null){
-			return instance;
-		}
-		else {
-			instance =new Singleton();
-			return instance;
-		}
-	}
-
-}
+public class Singleton {  
+    private volatile static Singleton singleton;  
+    private Singleton (){}  
+    public static Singleton getSingleton() {  
+    if (singleton == null) {  
+        synchronized (Singleton.class) {  
+        if (singleton == null) {  
+            singleton = new Singleton();  
+        }  
+        }  
+    }  
+    return singleton;  
+    }  
+}  
