@@ -7,8 +7,9 @@ import java.sql.SQLException;
 import java.sql.Statement;  
 import java.util.Random;
 
-import com.ibm.esw.db2.JDBCUtil;
 import com.mysql.jdbc.PreparedStatement;
+
+import com.ibm.esw.db2.JDBCUtil;
 public class ConnectiontoMySql {
 	
 	static {

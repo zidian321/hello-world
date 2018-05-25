@@ -40,11 +40,11 @@ public class JDBCUtil {
     }  
   
     /** 
-     * 获取数据库连接 
+     * 获�?�数�?�库连接 
      * @param url url 
-     * @param user 用户名 
-     * @param password 密码 
-     * @return 数据库连接 
+     * @param user 用户�?? 
+     * @param password 密�? 
+     * @return 数�?�库连接 
      * @throws SQLException 
      */  
     public static Connection getConnection(String url, String user, String password) throws SQLException {  
@@ -54,7 +54,7 @@ public class JDBCUtil {
   
   
     /** 
-     * 释放数据库相关对象 
+     * 释放数�?�库相关对象 
      *  
      * @param rs 结果集 
      * @param st 声明 
@@ -118,7 +118,7 @@ public class JDBCUtil {
     }  
   
     /** 
-     * 将数据库字段转换成bean属性 
+     * 将数�?�库字段转�?��?bean属性 
      * @param columnName 
      * @return 
      */  
@@ -178,21 +178,21 @@ public class JDBCUtil {
         ResultSet rs = null;  
           
         try {  
-            conn = JDBCUtil.getConnection("jdbc:db2://mvss.mul.ie.ibm.com/SPCDB2D", "CN27235", "passw6rd");  
+            conn = JDBCUtil.getConnection("jdbc:db2://mvss.mul.ie.ibm.com/SPCDB2D", "WFDB2D", "nhj77iol");  
             int count =0;
             File inputFile=new File("src/Table.txt");
             File outputFile = new File("src/ColumsDeatil.txt");
-            BufferedReader reader=null;
-            BufferedWriter writer = null;
-            String tempStr=null;  
-                    reader = new BufferedReader(new FileReader(inputFile));
-                    writer = new BufferedWriter(new FileWriter(outputFile));
-                    while((tempStr=reader.readLine())!=null){
-                    	writer.write(gernerateTableDetails(conn,tempStr));
-                    	writer.flush();
-                    }
-                    writer.flush();
-                    writer.close();
+//            BufferedReader reader=null;
+//            BufferedWriter writer = null;
+//            String tempStr=null;  
+//                    reader = new BufferedReader(new FileReader(inputFile));
+//                    writer = new BufferedWriter(new FileWriter(outputFile));
+//                    while((tempStr=reader.readLine())!=null){
+//                    	writer.write(gernerateTableDetails(conn,tempStr));
+//                    	writer.flush();
+//                    }
+//                    writer.flush();
+//                    writer.close();
 
         } catch (SQLException e) {  
             // 添加日志记录该异常  
